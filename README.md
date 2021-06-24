@@ -35,7 +35,7 @@ module "eks_self_managed_node_group" {
 
 See the [`examples/region/`](./examples/region/) directory for the full configuration.
 
-## Deploy an Amazon EKS self-managed node group on an AWS Outpost
+### Deploy an Amazon EKS self-managed node group on an AWS Outpost
 
 ```terraform
 module "eks_self_managed_node_group" {
